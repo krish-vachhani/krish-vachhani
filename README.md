@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish Vachhani</h1>
-<h3 align="center">A CSE Sophomore Who Is Currently Exploring The Awesome World Of Computer Science.</h3>
+<h3 align="center">A CSE Final Year Student Who Is Currently Exploring The Awesome World Of Computer Science.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-vachhani" alt="krish-vachhani" /></a> </p>
 
