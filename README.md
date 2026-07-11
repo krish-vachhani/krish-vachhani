@@ -42,7 +42,3 @@ I also cold-DM'd my way to my first software deals, and I write about code + the
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/krishvachhani19)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PetrifiedFly27/)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishvachhani01@gmail.com)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=krish-vachhani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Krish's GitHub stats" />
-</p>
