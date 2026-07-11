@@ -2,22 +2,22 @@
 <h3 align="center">Full-stack engineer · payments & real-time systems</h3>
 
 <p align="center">
-I build backend-heavy full-stack products — exactly-once payments, real-time dispatch, systems that hold up at scale.<br/>
+I build backend-heavy full-stack products - exactly-once payments, real-time dispatch, systems that hold up at scale.<br/>
 I also cold-DM'd my way to my first software deals, and I write about code + the business of building it.
 </p>
 
 ---
 
 ### 🚀 What I'm doing these days
-- 🌱 Contributing to **open source** — ramping toward consistent, meaningful PRs
+- 🌱 Contributing to **open source** - ramping toward consistent, meaningful PRs
 - 🛠️ Building in public & writing on [X / Twitter](https://x.com/{{X_HANDLE}}) about engineering and the business of it
 - 💼 Open to **backend / full-stack roles** at AI & product startups
 
 ### 🧩 Selected work
-- **Food-delivery backend (current)** — 4 apps (customer, restaurant, rider, admin) on Node/TypeScript: an **idempotent Razorpay flow** (webhook + verify, HMAC, Redis lock → exactly-once), an **expanding-radius rider dispatch on PostGIS** (1 km→5 km rings, 30 s BullMQ window, Redis first-accept), and **real-time order + GPS tracking** via socket.io + Redis adapter across horizontally-scaled instances.
-- **E-learning platform at scale** — assessment system serving **18M+ students & 2M educators** for a major US publisher: reusable, typed React question modules + optimized Node APIs → **~30% fewer assessment errors**.
-- **[PathCraft](https://github.com/krish-vachhani/{{PATHCRAFT_REPO}})** — full-stack AI course generator (Next.js · Node · MongoDB · Gemini · Auth0): a modular lesson engine with 5+ content types; 70+ users, 1,300+ tracked events.
-- **[Whiteboard](https://github.com/krish-vachhani/{{WHITEBOARD_REPO}})** — browser drawing editor on the raw HTML5 Canvas API: 4+ tools, low-latency imperative rendering, undo/redo history stack, PNG export.
+- **Food-delivery backend (current)** - 4 apps (customer, restaurant, rider, admin) on Node/TypeScript: an **idempotent Razorpay flow** (webhook + verify, HMAC, Redis lock → exactly-once), an **expanding-radius rider dispatch on PostGIS** (1 km→5 km rings, 30 s BullMQ window, Redis first-accept), and **real-time order + GPS tracking** via socket.io + Redis adapter across horizontally-scaled instances.
+- **E-learning platform at scale** - assessment system serving **18M+ students & 2M educators** for a major US publisher: reusable, typed React question modules + optimized Node APIs → **~30% fewer assessment errors**.
+- **[PathCraft](https://github.com/krish-vachhani/{{PATHCRAFT_REPO}})** - full-stack AI course generator (Next.js · Node · MongoDB · Gemini · Auth0): a modular lesson engine with 5+ content types; 70+ users, 1,300+ tracked events.
+- **[Whiteboard](https://github.com/krish-vachhani/{{WHITEBOARD_REPO}})** - browser drawing editor on the raw HTML5 Canvas API: 4+ tools, low-latency imperative rendering, undo/redo history stack, PNG export.
 
 ### ⚙️ Tech
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,8 +33,8 @@ I also cold-DM'd my way to my first software deals, and I write about code + the
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🏆 A bit more
-- **ICPC Regionalist** — qualified for two regionals (Gwalior-Pune & Amritapuri)
-- **750+ DSA problems** solved across LeetCode & Codeforces — strong on algorithms and systems design
+- **ICPC Regionalist** - qualified for two regionals (Gwalior-Pune & Amritapuri)
+- **750+ DSA problems** solved across LeetCode & Codeforces - strong on algorithms and systems design
 
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-vachhani-6218601bb)
