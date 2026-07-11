@@ -1,25 +1,47 @@
 <h1 align="center">Hi 👋, I'm Krish Vachhani</h1>
-<h3 align="center">A CSE Final Year Student Who Is Currently Exploring The Awesome World Of Computer Science.</h3>
+<h3 align="center">Full-stack engineer · payments & real-time systems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-vachhani" alt="krish-vachhani" /></a> </p>
-
-- 🌱 I’m currently learning **Android (Kotlin)**
-
-- 📫 How to reach me **krishvachhani19@gmail.com**
-
-- ⚡ Fun fact **I think I am funny😜**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krish-vachhani-6218601bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish-vachhani-6218601bb" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/petrifiedfly27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="petrifiedfly27" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/petrifiedfly27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="petrifiedfly27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/petrifiedfly27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="petrifiedfly27" height="30" width="40" /></a>
+<p align="center">
+I build backend-heavy full-stack products — exactly-once payments, real-time dispatch, systems that hold up at scale.<br/>
+I also cold-DM'd my way to my first software deals, and I write about code + the business of building it.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krish-vachhani&show_icons=true&locale=en&layout=compact" alt="krish-vachhani" /></p>
+### 🚀 What I'm doing these days
+- 🌱 Contributing to **open source** — ramping toward consistent, meaningful PRs
+- 🛠️ Building in public & writing on [X / Twitter](https://x.com/{{X_HANDLE}}) about engineering and the business of it
+- 💼 Open to **backend / full-stack roles** at AI & product startups
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krish-vachhani&show_icons=true&locale=en" alt="krish-vachhani" /></p>
+### 🧩 Selected work
+- **Food-delivery backend (current)** — 4 apps (customer, restaurant, rider, admin) on Node/TypeScript: an **idempotent Razorpay flow** (webhook + verify, HMAC, Redis lock → exactly-once), an **expanding-radius rider dispatch on PostGIS** (1 km→5 km rings, 30 s BullMQ window, Redis first-accept), and **real-time order + GPS tracking** via socket.io + Redis adapter across horizontally-scaled instances.
+- **E-learning platform at scale** — assessment system serving **18M+ students & 2M educators** for a major US publisher: reusable, typed React question modules + optimized Node APIs → **~30% fewer assessment errors**.
+- **[PathCraft](https://github.com/krish-vachhani/{{PATHCRAFT_REPO}})** — full-stack AI course generator (Next.js · Node · MongoDB · Gemini · Auth0): a modular lesson engine with 5+ content types; 70+ users, 1,300+ tracked events.
+- **[Whiteboard](https://github.com/krish-vachhani/{{WHITEBOARD_REPO}})** — browser drawing editor on the raw HTML5 Canvas API: 4+ tools, low-latency imperative rendering, undo/redo history stack, PNG export.
+
+### ⚙️ Tech
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🏆 A bit more
+- **ICPC Regionalist** — qualified for two regionals (Gwalior-Pune & Amritapuri)
+- **750+ DSA problems** solved across LeetCode & Codeforces — strong on algorithms and systems design
+
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-vachhani-6218601bb)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/{{X_HANDLE}})
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/petrifiedfly27)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishvachhani01@gmail.com)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=krish-vachhani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Krish's GitHub stats" />
+</p>
